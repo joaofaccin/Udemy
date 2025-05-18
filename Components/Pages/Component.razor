@@ -1,3 +1,5 @@
+@inject IJSRuntime JS
+@rendermode InteractiveServer
 @page "/component"
 
 <h3>Componet</h3>
@@ -6,11 +8,11 @@
 Title="Título" 
 Conteudo="exemplo"
 txtButtom="saiba mais"
+EventClick="EventClickCard1"
 />
 
-
 @code{
-
-
-
+    public void EventClickCard1(){
+        JS.InvokeVoidAsync("alert", "card 1");
+    }
 }

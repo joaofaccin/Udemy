@@ -124,7 +124,7 @@
         }
       },
       {
-        "HashCode": 1003416536,
+        "HashCode": -507300863,
         "Kind": "Components.Component",
         "Name": "myapp.Components.Pages.Components.Cards",
         "AssemblyName": "myapp",
@@ -161,6 +161,16 @@
               "Common.PropertyName": "txtButtom",
               "Common.GloballyQualifiedTypeName": "global::System.String"
             }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "EventClick",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "EventClick",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
+            }
           }
         ],
         "Metadata": {
@@ -171,7 +181,7 @@
         }
       },
       {
-        "HashCode": -2050818429,
+        "HashCode": 1944528222,
         "Kind": "Components.Component",
         "Name": "myapp.Components.Pages.Components.Cards",
         "AssemblyName": "myapp",
@@ -207,6 +217,16 @@
             "Metadata": {
               "Common.PropertyName": "txtButtom",
               "Common.GloballyQualifiedTypeName": "global::System.String"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "EventClick",
+            "TypeName": "Microsoft.AspNetCore.Components.EventCallback",
+            "Metadata": {
+              "Common.PropertyName": "EventClick",
+              "Common.GloballyQualifiedTypeName": "global::Microsoft.AspNetCore.Components.EventCallback",
+              "Components.EventCallback": "True"
             }
           }
         ],
