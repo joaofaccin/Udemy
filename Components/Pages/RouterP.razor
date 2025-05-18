@@ -1,0 +1,21 @@
+@page "/RouterP"
+
+@inject NavigationManager Navigation
+@rendermode InteractiveServer
+
+<h3>RouterP</h3>
+
+<input @bind="Rota" placeholder="Digite a rota..." />
+<button  class="btn btn-primary" @onclick="OnClick">Navegar</button>
+
+@code {
+    public string? Rota { get; set; }
+
+    public void OnClick()
+    {
+        if (!string.IsNullOrWhiteSpace(Rota))
+        {
+            Navigation.NavigateTo(Rota);
+        }
+    }
+}

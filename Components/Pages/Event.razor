@@ -1,0 +1,21 @@
+@page "/event"
+@rendermode InteractiveServer
+
+<h3>Event</h3>
+
+<div>
+
+
+<button class="btn btn-primary" @onclick="Clique">Bll</button>
+</div>
+
+@Texto
+
+@code {
+    private string Texto { get; set; } = string.Empty;
+
+    public void Clique(MouseEventArgs e){
+
+        Texto = $"Posição do mouse: {e.ScreenX}, {e.ScreenY}";
+    }
+}

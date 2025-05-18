@@ -1,0 +1,15 @@
+@page "/bind"
+@rendermode InteractiveServer
+
+<h3>Bind</h3>
+
+<div>
+    <p>@Texto</p>
+</div>
+<div>
+    <input @bind="Texto" @bind:event="oninput" class="form-control">
+</div>
+
+@code {
+    private string Texto { get; set; } = "Eu sou um text";
+}
