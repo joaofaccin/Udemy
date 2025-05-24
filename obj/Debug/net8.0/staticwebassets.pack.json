@@ -1,59 +1,59 @@
 {
   "Files": [
     {
-      "Id": "/home/user/udemy/obj/Debug/net8.0/scopedcss/projectbundle/myapp.bundle.scp.css",
+      "Id": "/media/lenioth/Armazanamento/Udemy/obj/Debug/net8.0/scopedcss/projectbundle/myapp.bundle.scp.css",
       "PackagePath": "staticwebassets/myapp.bundle.scp.css"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/app.css",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/app.css",
       "PackagePath": "staticwebassets/app.css"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/bootstrap/bootstrap.min.css",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/bootstrap/bootstrap.min.css",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/bootstrap/bootstrap.min.css.map",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/bootstrap/bootstrap.min.css.map",
       "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/favicon.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/favicon.png",
       "PackagePath": "staticwebassets/favicon.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/logo.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/logo.png",
       "PackagePath": "staticwebassets/logo.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/CTH_1.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/CTH_1.png",
       "PackagePath": "staticwebassets/src/CTH_1.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/CTH_2.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/CTH_2.png",
       "PackagePath": "staticwebassets/src/CTH_2.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/icone.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/icone.png",
       "PackagePath": "staticwebassets/src/icone.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/icone2.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/icone2.png",
       "PackagePath": "staticwebassets/src/icone2.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/icone3.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/icone3.png",
       "PackagePath": "staticwebassets/src/icone3.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/logo.svg",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/logo.svg",
       "PackagePath": "staticwebassets/src/logo.svg"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/logo_c_fundo.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/logo_c_fundo.png",
       "PackagePath": "staticwebassets/src/logo_c_fundo.png"
     },
     {
-      "Id": "/home/user/udemy/wwwroot/src/logo_s_fundo.png",
+      "Id": "/media/lenioth/Armazanamento/Udemy/wwwroot/src/logo_s_fundo.png",
       "PackagePath": "staticwebassets/src/logo_s_fundo.png"
     },
     {
