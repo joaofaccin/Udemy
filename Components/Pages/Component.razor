@@ -1,15 +1,34 @@
-@inject IJSRuntime JS
+﻿@inject IJSRuntime JS
 @rendermode InteractiveServer
 @page "/component"
 
 <h3>Componet</h3>
+<div class="row">
+    <div class="col-md-3">
+        <Cards
+            Title="Título do cartao 1"
+            Conteudo="exemplo"
+            txtButtom="saiba mais"
+            EventClick="EventClickCard1"
+        />     
+    </div>
+     <div class="col-md-3">
+        <Cards
+            Title="Título do cartao 2"
+            Conteudo="exemplo"
+            txtButtom="saiba mais"
+            EventClick="EventClickCard1"
+        />     
+    </div>
+      <div class="col-md-3"> 
+      <Cards> 
+        <h3>sasaa</h3>
+      </Cards>
+    </div>
+        <div class="col-md-3">
+    </div>
+</div>
 
-<Cards 
-Title="Título" 
-Conteudo="exemplo"
-txtButtom="saiba mais"
-EventClick="EventClickCard1"
-/>
 
 @code{
     public void EventClickCard1(){

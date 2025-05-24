@@ -25,6 +25,38 @@
       "PackagePath": "staticwebassets/logo.png"
     },
     {
+      "Id": "/home/user/udemy/wwwroot/src/CTH_1.png",
+      "PackagePath": "staticwebassets/src/CTH_1.png"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/CTH_2.png",
+      "PackagePath": "staticwebassets/src/CTH_2.png"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/icone.png",
+      "PackagePath": "staticwebassets/src/icone.png"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/icone2.png",
+      "PackagePath": "staticwebassets/src/icone2.png"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/icone3.png",
+      "PackagePath": "staticwebassets/src/icone3.png"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/logo.svg",
+      "PackagePath": "staticwebassets/src/logo.svg"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/logo_c_fundo.png",
+      "PackagePath": "staticwebassets/src/logo_c_fundo.png"
+    },
+    {
+      "Id": "/home/user/udemy/wwwroot/src/logo_s_fundo.png",
+      "PackagePath": "staticwebassets/src/logo_s_fundo.png"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.myapp.props",
       "PackagePath": "build\\myapp.props"
     },
